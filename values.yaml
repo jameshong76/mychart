@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: https://index.docker.io/jameshong76/nginx
+  repository: jameshong76/nginx
   tag: latest
   pullPolicy: IfNotPresent
 
