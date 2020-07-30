@@ -1,1 +1,5 @@
+# Global values
+global:
 
+  # Release
+  ReleaseVersion: v1.0
