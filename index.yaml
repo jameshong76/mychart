@@ -4,7 +4,7 @@ entries:
   - apiVersion: v1
     appVersion: "1.0"
     created: "2019-08-08T01:44:05.467492088Z"
-    description: A Helm chart for Kubernetes
+    description: A Helm chart for Kubernetesaaa
     digest: 5cf70d2a1ee8aad79ec5cf358af4b466a9ceb39f460bcab4b39335ecad6a49b8
     name: mychart
     urls:
